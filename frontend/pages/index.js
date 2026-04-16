@@ -25,9 +25,9 @@ const STEPS = [
 ];
 
 const TESTIMONIALS = [
-  { name: 'Amara K.', country: 'Yaoundé, CM', score: '7.0',  text: 'I went from band 5.5 to 7.0 in 8 weeks. The AI feedback showed exactly where I was losing marks.' },
-  { name: 'Fatou D.', country: 'Dakar, SN',   score: '6.5',  text: 'The speaking test is amazing. I was scared at first but it really helped my confidence.' },
-  { name: 'Kwame A.', country: 'Accra, GH',   score: '7.5',  text: 'Worth every franc. The instant feedback is better than some human tutors I've used.' },
+  { name: 'Amara K.', country: 'Yaoundé, CM', score: '7.0', text: 'I went from band 5.5 to 7.0 in 8 weeks. The AI feedback showed exactly where I was losing marks.' },
+  { name: 'Fatou D.', country: 'Dakar, SN', score: '6.5', text: 'The speaking test is amazing. I was scared at first but it really helped my confidence.' },
+  { name: 'Kwame A.', country: 'Accra, GH', score: '7.5', text: "Worth every franc. The instant feedback is better than some human tutors I've used." },
 ];
 
 export default function HomePage() {
